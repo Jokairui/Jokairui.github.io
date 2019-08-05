@@ -4,3 +4,4 @@ http://www.khirye.com/tags
 http://www.khirye.com/2019/07/28/MySQL-为什么会选错索引/
 http://www.khirye.com/2019/07/23/到底可不可以用JOIN/
 http://www.khirye.com/2019/07/29/MySQL为什么会抖一下/
+https://www.khirye.com/2019/08/05/Order-By-是怎么工作的/
