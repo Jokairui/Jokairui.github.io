@@ -3,11 +3,11 @@ title: Khirye Blog
 SEOTitle: Khirye的博客 | KR Blog
 header-img: img/post-bg-desk.jpg
 email: jokairui@gmail.com
-description: "Every failure is leading towards success."
+description: "一些读书笔记，学习博客，这里有所有的Java程序员都应该掌握的技能"
 keyword: "凯瑞，khirye，khirye's blog, khirye blog, 凯瑞的博客，khirye的博客"
 url: "http://www.khirye.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Jokairui/Jokairui.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
